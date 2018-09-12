@@ -1,0 +1,7 @@
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\bin\Debug\StringParserAssignment.Repository.dll
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\bin\Debug\StringParserAssignment.Repository.pdb
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\bin\Debug\StringParserAssignment.Models.dll
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\bin\Debug\StringParserAssignment.Models.pdb
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\obj\Debug\StringParserAssignment.Repository.csprojResolveAssemblyReference.cache
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\obj\Debug\StringParserAssignment.Repository.dll
+C:\Nordea\StringParserAssignment\StringParserAssignment.Repository\obj\Debug\StringParserAssignment.Repository.pdb

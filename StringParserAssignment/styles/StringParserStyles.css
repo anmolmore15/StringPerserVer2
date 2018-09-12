@@ -1,0 +1,61 @@
+﻿.OutPutDiv
+{
+    margin-top: 50px; 
+    border: thin solid #ccc; 
+    padding: 7px; 
+    border-radius: 4px;
+}
+
+.PreBody 
+{
+    height: 200px; 
+    width: 100%; 
+    overflow: scroll; 
+    visibility: visible; 
+    overflow-x: auto;
+}
+
+.MainDiv
+{
+    width: 50%; 
+    margin: 0px auto;
+}
+
+.InputTableDiv 
+{
+    border:thin solid #ccc; 
+    padding:7px; 
+    border-radius:4px;
+}
+
+.BtnSubmitInput 
+{
+    height: 30px; 
+    width: 407px;
+}
+
+.InputTextColumn
+{
+    min-width: 155px; 
+    vertical-align:top;
+}
+
+.ParserColumn 
+{
+    min-width: 155px; 
+    vertical-align:top
+}
+
+.SubmitButtonRow
+{
+    margin-top: 200px; 
+    align:right;
+}
+
+#btnSubmit{
+        float: right;
+}
+.HeaderAlignment
+{
+    text-align:center
+}

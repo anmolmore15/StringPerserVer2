@@ -1,0 +1,4 @@
+C:\Nordea\StringParserAssignment\StringParserAssignment.Models\bin\Debug\StringParserAssignment.Models.dll
+C:\Nordea\StringParserAssignment\StringParserAssignment.Models\bin\Debug\StringParserAssignment.Models.pdb
+C:\Nordea\StringParserAssignment\StringParserAssignment.Models\obj\Debug\StringParserAssignment.Models.dll
+C:\Nordea\StringParserAssignment\StringParserAssignment.Models\obj\Debug\StringParserAssignment.Models.pdb
